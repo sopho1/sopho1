@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer and a lifelong learner 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👨‍💻+Welcome+to+my+GitHub!;🌱+Learning+new+skills+daily;🚀+Building+cool+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=700&color=58A6FF&center=true&vCenter=true&width=600&lines=👨‍💻+Welcome+to+my+GitHub!;🌱+Learning+new+skills+daily;🚀+Building+cool+projects" alt="Typing SVG" />
 </p>
 
 
