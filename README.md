@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer and a lifelong learner 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=700&color=58A6FF&center=true&vCenter=true&width=600&lines=👨‍💻+Welcome+to+my+GitHub!;🌱+Learning+new+skills+daily;🚀+Building+cool+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=👨‍💻+Welcome+to+my+GitHub!;🌱+Learning+new+skills+daily;🚀+Building+cool+projects" alt="Typing SVG" />
 </p>
 
 
@@ -24,9 +24,9 @@
 ### 🌐 Connect with Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/sophonias-endale-36b28617a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
-     &nbsp;&nbsp;
+      &nbsp;&nbsp;
   <a href="https://www.upwork.com/freelancers/~your_upwork_profile_id" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Upwork_Logo.svg" alt="Upwork" height="30" width="30" />
+    <img align="center" src="https://img.icons8.com/ios-filled/50/6FDA44/upwork.png" alt="Upwork" height="30" width="30"/>
   </a>
 </p>
 
