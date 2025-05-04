@@ -16,8 +16,9 @@
 
 ### 🛠️ My Favorite Tech Stack:
 <p align="center">
-  React.js
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/>
+   <br/>
+  <strong>React.js</strong>
 </p>
 
 ---
@@ -26,7 +27,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/sophonias-endale-36b28617a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
       &nbsp;&nbsp;
-  <a href="https://www.upwork.com/freelancers/~your_upwork_profile_id" target="blank">
+  <a href="https://www.upwork.com/freelancers/~01c52d8d2a22a8c79b" target="blank">
     <img align="center" src="https://img.icons8.com/ios-filled/50/6FDA44/upwork.png" alt="Upwork" height="30" width="30"/>
   </a>
 </p>
